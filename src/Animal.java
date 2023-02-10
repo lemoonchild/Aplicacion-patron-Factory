@@ -1,4 +1,5 @@
 
+
 public abstract class Animal {
     private String nombre;
     private String tipoanimal;
@@ -20,9 +21,6 @@ public abstract class Animal {
     }
 
     public void printAdopted() {
-    }
-
-    {
 
     }
 
