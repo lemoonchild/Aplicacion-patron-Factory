@@ -1,6 +1,6 @@
 public class adoptionFactory {
     // Usamos askPet método para obtener objeto la mascota seleccionada
-    public IAnimal askPet(String petType) {
+    public Animal askPet(String petType) {
         if (petType == null) {
             return null;
         }
