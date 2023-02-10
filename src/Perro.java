@@ -1,8 +1,4 @@
-public class Perro implements IAnimal{
+public class Perro extends Animal{
 
-    @Override
-    public void adoptar() {
-        System.out.println("Se ha adoptado un perro");        
-    }
     
 }

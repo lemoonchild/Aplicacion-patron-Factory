@@ -1,6 +1,0 @@
-
-interface IAnimal{
-
-    void adoptar(); 
-
-}
